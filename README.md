@@ -2,6 +2,7 @@
 
 Repositório de código para as aulas que ministro nos cursos de pós-graduação em algumas universidades
 
+teste 
 ## Git
 
  * [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
